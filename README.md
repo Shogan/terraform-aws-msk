@@ -6,7 +6,7 @@ Right now the module is very basic, but will be extended in the near future.
 
 ## Usage
 
-Basic [example](examples/basic)
+Basic [example](example/basic)
 
 ```hcl
 terraform {
